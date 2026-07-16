@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notificaciones FIAT</string>
+    <string name="service_name">Notificaciones Fiat</string>
+    <string name="choose_app">Seleccionar Apps</string>
+    <string name="preferences">Preferencias</string>
+    <string name="settings">Configuración</string>
+    <string name="run_as_service">Correr Servicio</string>
+    <string name="run_as_service_summary">Correr aplicacion una vez abierta la app</string>
+    <string name="remote_mac_address">MAC address de la ESP32</string>
+    <string name="remote_mac_address_default">00:00:00:00:00:00</string>
+    <string name="notification_access">Acceso a Notificaciones</string>
+    <string name="notification_access_summary">Grant access to status notifications</string>
+    <string name="mac_format_error">Formato A1:BB:3C:44:DE:9F</string>
+    <string name="kill_service">Matar Servicios</string>
+    <string name="start_service">Iniciar Servicio</string>
+    <string name="start_at_boot">Arranque al inicio</string>
+    <string name="start_service_at_boot">Arranca automaticamente el servicio al encender el telefono</string>
+    <string name="channel_desc">Connection status notifications</string>
+    <string name="flip_vertically">Voltear display vertical</string>
+    <string name="flip_vertically_summary">Habilita el giro del display</string>
+</resources>
